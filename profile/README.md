@@ -2,7 +2,7 @@
 
 ### We use molecular biology, conservation genomics, and bioinformatics to improve the health and welfare of wild and captive mammals — especially primates.
 
-![](images/logo_richlab_small.png)
+![](../images/logo_richlab_small.png)
 
 ## Welcome to our Github Repository
 
